@@ -2,40 +2,40 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
-<h1 align="center">Salut <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Moi c'est Darrel</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Darrel</h1>
 <p align="center">
-  <a href="https://github.com/darrelX/darrelX"><img src="https://readme-typing-svg.herokuapp.com?lines=Etudiant+en+Genie+Electronique;Developpeur+Full+Stack;IoT%20|%20AI%20|%20ML%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/darrelX/darrelX"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronic+Engineering+Student;Full+Stack+Developer;IoT%20|%20AI%20|%20ML%20&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
 <em>
-    Je suis <b> Darrel Tcho </b>, étudiant en Cinquième année <b> d'Ingénierie Systeme Intelligent </b> à l'<a href="https://www.bing.com/ck/a?!&&p=c408dc4e78f28f0aJmltdHM9MTY5MTAyMDgwMCZpZ3VpZD0wYzkyMDI1OC1hOGUwLTY4NTMtMGRiZi0xMTBmYTkzOTY5ZmQmaW5zaWQ9NTE3Mg&ptn=3&hsh=3&fclid=0c920258-a8e0-6853-0dbf-110fa93969fd&psq=Ecole+Nationale+Superieure+Polytechnique+de+Douala&u=a1aHR0cHM6Ly9lbnNwZC11ZG8uY20v&ntb=1"> <b>Ecole Nationale Superieure Polytechnique de Douala</b></a>.
-    J'aspire à devenir un <b>Ingenieur ML,</b>&nbsp;<b>un programmeur compétitif</b>&nbsp; et un <b>spécialiste dans le domaine de  l'Intelligence Artificielle</b> 
+    I am <b>Darrel Tcho</b>, a fifth-year student in <b>Intelligent Systems Engineering</b> at the <a href="https://www.bing.com/ck/a?!&&p=c408dc4e78f28f0aJmltdHM9MTY5MTAyMDgwMCZpZ3VpZD0wYzkyMDI1OC1hOGUwLTY4NTMtMGRiZi0xMTBmYTkzOTY5ZmQmaW5zaWQ9NTE3Mg&ptn=3&hsh=3&fclid=0c920258-a8e0-6853-0dbf-110fa93969fd&psq=Ecole+Nationale+Superieure+Polytechnique+de+Douala&u=a1aHR0cHM6Ly9lbnNwZC11ZG8uY20v&ntb=1"> <b>National Higher Polytechnic School of Douala</b></a>.
+    I aspire to become an <b>ML Engineer,</b>&nbsp;<b>a competitive programmer</b>&nbsp; and a <b>specialist in Artificial Intelligence</b>.
   <br>
   
   <b style=""><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
-<h3>Quelques petits choses me concernant 🧑</h3>
+<h3>A few things about me 🧑</h3>
 
-- 🧞 Depuis l'enfance, ma passion pour les technologies ne cesse de grandir, avec un intérêt particulier pour l'IA, l'IoT, et le développement mobile.
-- 🔭 Actuellement, je travaille sur un projet alliant développement web, IA et Machine Learning.
-- 📱 Le développement mobile me passionne : j'aime créer des applications innovantes qui répondent aux besoins des utilisateurs.
-- 🌐 Je m’intéresse aussi à l'Internet des objets (IoT), et à la manière dont il transforme notre quotidien grâce à la connectivité.
-- 👯 J’aspire à collaborer sur des projets en développement web, IA, IoT, et développement mobile.
-- 🤖 Je suis fasciné par les avancées de l'Intelligence Artificielle et par son potentiel à améliorer l’efficacité et l’automatisation.
-- 💡 Contribuer à des projets Open Source dans le domaine des technologies émergentes est pour moi une véritable passion.
-- 💼 En ce moment, je développe mes compétences en IA pour intégrer des modèles intelligents dans des applications mobiles et IoT.
-- ⚡ Fun fact: J'aime écouter de la musique pour m’inspirer !
+- 🧞 Since childhood, my passion for technology has only grown, with a particular interest in AI, IoT, and mobile development.
+- 🔭 Currently, I am working on a project that combines web development, AI, and Machine Learning.
+- 📱 Mobile development fascinates me: I love creating innovative applications that meet users' needs.
+- 🌐 I am also interested in the Internet of Things (IoT) and how it is transforming our daily lives through connectivity.
+- 👯 I aspire to collaborate on projects in web development, AI, IoT, and mobile development.
+- 🤖 I am fascinated by AI advancements and their potential to improve efficiency and automation.
+- 💡 Contributing to Open Source projects in emerging technologies is a true passion for me.
+- 💼 Right now, I am developing my AI skills to integrate intelligent models into mobile and IoT applications.
+- ⚡ Fun fact: I love listening to music for inspiration!
 
 <br/>
 
 ---
 <details>
 <br/>
-<sumary>
-      ✨ Outils techniques couramment utilisés:
-  </sumary>
+<summary>
+      ✨ Commonly used technical tools:
+  </summary>
   <br/>
   <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>  
   <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
